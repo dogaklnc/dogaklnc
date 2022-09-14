@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dogaklnc
 -👨‍🎓I'm student
-- 🌱 I’m currently learning full stack web development and C++
+- 🌱 I’m currently learning full stack web development 
 - 📫 How to reach me dogaklnc2@gmail.com
 
 <!---
